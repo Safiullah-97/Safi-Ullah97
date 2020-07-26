@@ -1,0 +1,102 @@
+div{
+      background-image: url('webpic.jpg');
+      opacity: 100%;
+      shape-image-threshold: inherit;
+    }
+.lee{
+      border: solid,black;
+      color: whitesmoke;
+    font-size: 21px;
+    text-align: left;
+  background-color: black;
+width: 100px;
+height: 25ch;
+padding-left: 10px;
+font-style: oblique;
+letter-spacing: 2px;
+}
+
+ img{
+
+  border-radius: 38%;
+   border-color: lightskyblue;
+   border-width: 10ch;
+ }    
+h1{   
+               letter-spacing: 2px;
+                font-size: 45px;
+             text-align: center;
+             color: whitesmoke;
+                background-color: black;
+              margin-left: 27ch;
+                height: 65px;
+                width: 20ch;
+            opacity: 70%;
+               font-style: oblique;
+             text-decoration-style: solid;
+           padding-inline-start: 2px;
+           border-color: lightseagreen;
+           border-width: 10ch;
+        }
+        h2{ 
+              width: 220px;
+                font-size: 40px;
+                background-color: black;
+                margin-top: auto;
+              color: whitesmoke;
+              letter-spacing: 2px;
+        }
+       
+legend{
+        word-spacing: 10px;
+        letter-spacing: 3px;
+        align-content: center;
+      width: 72ch;
+      height: 70ch;
+        font-size: 21px;
+          border:lightgreen;
+          border-width: 6px;
+       border-radius: 35%;
+       padding-top: 8ch;
+          border-style: solid;
+         background-color:black;
+         padding-left: 20ch;
+     margin-left: 45ch;
+    color: #ffffff;
+    opacity: 60%;
+    overflow: visible;  
+    font-weight: 900;
+    font-style: oblique;
+  } 
+
+
+img{
+    width: 25ch;
+    height: 25ch;
+    text-align: right;    
+    padding-right:1px;
+
+
+}
+
+
+label{
+            font-size: 2ch;
+            padding-right: 210px;
+            margin-top: 2px;
+            margin-left: 240px;
+        
+}
+
+.PI{
+      opacity: 40px;
+      background-color: white;
+
+}
+
+span{
+  background-image: url('webpic.jpg');
+  opacity: 100%;
+  shape-image-threshold: inherit;
+
+}
